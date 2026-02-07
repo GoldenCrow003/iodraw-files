@@ -19,7 +19,7 @@
         <mxCell id="Y_Dd7bfnjqV05a79v2__-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y_Dd7bfnjqV05a79v2__-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y_Dd7bfnjqV05a79v2__-6" value="TransformerEncoder&lt;div&gt;(128, nhead=8)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y_Dd7bfnjqV05a79v2__-7" value="Input&lt;div&gt;(B, 76, N)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
