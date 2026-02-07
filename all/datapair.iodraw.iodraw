@@ -22,7 +22,7 @@
         <mxCell id="pf_c-bqsCXRp57-h38HL-6" value="greenlight: [N_2, 1]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pf_c-bqsCXRp57-h38HL-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pf_c-bqsCXRp57-h38HL-7" value="infraredLight: [N_2, 1]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pf_c-bqsCXRp57-h38HL-8" value="redlight: [N_2, 1]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -150,7 +150,7 @@
         </mxCell>
         <mxCell id="Zzk5Vi-Nmp87IhfcJNut-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pf_c-bqsCXRp57-h38HL-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="430" as="sourcePoint" />
+            <mxPoint x="340" y="435" as="sourcePoint" />
             <mxPoint x="380" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
