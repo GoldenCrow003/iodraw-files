@@ -41,7 +41,7 @@
           <mxGeometry x="360" y="420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pf_c-bqsCXRp57-h38HL-14" value="ecg: [N-1, 50]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="68" width="120" height="30" as="geometry" />
+          <mxGeometry x="360" y="74" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pf_c-bqsCXRp57-h38HL-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="100" width="120" height="40" as="geometry" />
