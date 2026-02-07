@@ -43,7 +43,7 @@
         <mxCell id="pf_c-bqsCXRp57-h38HL-14" value="ecg: [N_1, 50]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="75" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pf_c-bqsCXRp57-h38HL-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pf_c-bqsCXRp57-h38HL-15" value="…" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pf_c-bqsCXRp57-h38HL-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -160,10 +160,10 @@
             <mxPoint x="340" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zzk5Vi-Nmp87IhfcJNut-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pf_c-bqsCXRp57-h38HL-4">
+        <mxCell id="Zzk5Vi-Nmp87IhfcJNut-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pf_c-bqsCXRp57-h38HL-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="265" as="sourcePoint" />
-            <mxPoint x="400" y="265" as="targetPoint" />
+            <mxPoint x="340" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
