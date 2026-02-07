@@ -19,13 +19,13 @@
         <mxCell id="pf_c-bqsCXRp57-h38HL-5" value="PPGLight: [N_2, 20]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pf_c-bqsCXRp57-h38HL-6" value="greenlight: [N_2, 1]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pf_c-bqsCXRp57-h38HL-6" value="greenLight: [N_2, 1]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pf_c-bqsCXRp57-h38HL-7" value="infraredLight: [N_2, 1]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pf_c-bqsCXRp57-h38HL-8" value="redlight: [N_2, 1]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pf_c-bqsCXRp57-h38HL-8" value="redLight: [N_2, 1]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pf_c-bqsCXRp57-h38HL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
