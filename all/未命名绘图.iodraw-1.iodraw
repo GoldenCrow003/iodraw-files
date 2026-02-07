@@ -28,7 +28,7 @@
         <mxCell id="Y_Dd7bfnjqV05a79v2__-15" value="Dropout(0.2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y_Dd7bfnjqV05a79v2__-28" value="Conv1d(128)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y_Dd7bfnjqV05a79v2__-28" value="Conv1d(32)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y_Dd7bfnjqV05a79v2__-29" value="BatchNorm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -39,6 +39,18 @@
         </mxCell>
         <mxCell id="Y_Dd7bfnjqV05a79v2__-31" value="Dropout(0.2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_Dd7bfnjqV05a79v2__-32" value="Conv1d(32)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_Dd7bfnjqV05a79v2__-33" value="BatchNorm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_Dd7bfnjqV05a79v2__-34" value="Gelu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_Dd7bfnjqV05a79v2__-35" value="Dropout(0.2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
