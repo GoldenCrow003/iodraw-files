@@ -166,8 +166,8 @@
             <mxPoint x="340" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zzk5Vi-Nmp87IhfcJNut-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="50" height="100" as="geometry" />
+        <mxCell id="Zzk5Vi-Nmp87IhfcJNut-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
